@@ -76,9 +76,6 @@ const NavLinks = ({ mobile = false }: { mobile?: boolean }) => {
       <Link href="/products" className={linkClass}>
         Products
       </Link>
-      <Link href="/blog" className={linkClass}>
-        Blog
-      </Link>
       <Link href="/contact" className={linkClass}>
         Contact
       </Link>
